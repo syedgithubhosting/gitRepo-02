@@ -1,0 +1,15 @@
+total 32
+drwxr-xr-x  14 syed.abbas  staff  448 Oct 22 00:44 .
+drwxr-xr-x   5 syed.abbas  staff  160 Oct 21 23:09 ..
+drwxr-xr-x  14 syed.abbas  staff  448 Oct 22 00:41 .git
+-rw-r--r--   1 syed.abbas  staff   43 Oct 21 22:15 .gitignore
+-rw-r--r--   1 syed.abbas  staff  728 Oct 21 23:36 five.txt
+-rw-r--r--   1 syed.abbas  staff  668 Oct 21 23:47 four.txt
+-rw-r--r--   1 syed.abbas  staff    0 Oct 21 22:15 ignore-01.txt
+-rw-r--r--   1 syed.abbas  staff    0 Oct 21 22:15 ignore-02.txt
+-rw-r--r--   1 syed.abbas  staff    0 Oct 21 22:15 ignore-03.txt
+-rw-r--r--   1 syed.abbas  staff    0 Oct 21 23:49 one.txt
+-rw-r--r--   1 syed.abbas  staff    0 Oct 22 00:44 seven.txt
+-rw-r--r--   1 syed.abbas  staff  787 Oct 21 23:36 six.txt
+-rw-r--r--   1 syed.abbas  staff    0 Oct 21 23:49 three.txt
+-rw-r--r--   1 syed.abbas  staff    0 Oct 21 23:49 two.txt
